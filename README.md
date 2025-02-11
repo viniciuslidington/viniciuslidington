@@ -21,7 +21,7 @@ Projeto desenvolvido em **C++** com foco em **Programação Orientada a Objetos 
 Criação de bots utilizando **Python e Selenium** para automatizar tarefas repetitivas e melhorar a eficiência de processos.
 
 ## 📫 Entre em Contato
-- **LinkedIn:** [Seu Perfil](#)
-- **E-mail:** seuemail@example.com
+- **LinkedIn:** [Vinicius Lidington](www.linkedin.com/in/viniciuslidington)
+- **E-mail:** vlidington@gmail.com
 
 Sinta-se à vontade para explorar meus repositórios e colaborar em projetos! 🚀
