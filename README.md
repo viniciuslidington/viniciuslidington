@@ -38,7 +38,7 @@ Criação de bots utilizando **Python e Selenium** para automatizar tarefas repe
 
 
 ## 📊 Estatísticas do GitHub 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslidington&langs_count=6&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslidington&layout=compact&langs_count=6&theme=tokyonight)  
 
 ## 🏆 Conquistas e Troféus
 ![Trophies](https://github-profile-trophy.vercel.app/?username=viniciuslidington&theme=tokyonight&no-bg=true&no-frame=true&column=6)
