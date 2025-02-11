@@ -34,7 +34,7 @@ Criação de bots utilizando **Python e Selenium** para automatizar tarefas repe
 ## 📫 Entre em Contato
 - **LinkedIn:** [Vinicius Lidington](https://www.linkedin.com/in/viniciuslidington)
 - **E-mail:** vlidington@gmail.com
-- **Instagram:** [@viniciuslidington](
+- **Instagram:** [@viniciuslidington](https://www.instagram.com/viniciuslidington?igsh=NTVpYTc5aHkxaG05&utm_source=qr)
 
 
 ## 📊 Estatísticas do GitHub 
