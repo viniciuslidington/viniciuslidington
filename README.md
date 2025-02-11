@@ -7,7 +7,7 @@ Sou um desenvolvedor back-end com experiência em **Python** e **RPA**, apaixona
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 - **Automação e RPA:**  
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 - **Banco de Dados:**  
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -37,8 +37,11 @@ Criação de bots utilizando **Python e Selenium** para automatizar tarefas repe
 - **Instagram:** [@viniciuslidington](
 
 
-## 📊 Estatísticas do GitHub & ## 🏆 Conquistas e Troféus
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslidington&langs_count=6&theme=tokyonight)  ![Trophies](https://github-profile-trophy.vercel.app/?username=viniciuslidington&theme=tokyonight&no-bg=true&no-frame=true&column=6)
+## 📊 Estatísticas do GitHub 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslidington&langs_count=6&theme=tokyonight)  
+
+## 🏆 Conquistas e Troféus
+![Trophies](https://github-profile-trophy.vercel.app/?username=viniciuslidington&theme=tokyonight&no-bg=true&no-frame=true&column=6)
 
 
 
