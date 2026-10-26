@@ -20,7 +20,6 @@ I'm a **full-stack developer** and **Information Systems** student at **CIn – 
 - 🐍 **Back end:** **Node.js** for web services, and **Python + FastAPI** for AI-powered applications (LLM agents, RAG with pgvector, embeddings).
 - ☁️ **Cloud & DevOps:** I build serverless features on **AWS** (Lambda and related services), and I set up CI/CD pipelines, maintenance and observability for the services I run.
 - 📱 **Mobile:** currently building a cross-platform app with **Flutter + Dart**.
-- ⚙️ I started out with **Python + RPA** automation, and I still reach for it when there's manual work to turn into code.
 
 ## 🎯 What I'm aiming for
 
@@ -135,17 +134,9 @@ A native macOS window manager in **pure Swift** that brings Windows 11-style Sna
 A cross-platform CLI (with an Electron front end) to convert video, audio, images, documents and PDFs, with native file pickers, batch mode and estimated output sizes.
 `Python` `ffmpeg` `Pandoc` `OCRmyPDF` `Electron`
 
-### 📅 [Daily](https://github.com/viniciuslidington/DailyApp) & [ScheduleMe](https://github.com/viniciuslidington/SchaduleMe)
-Two mobile-first PWAs for routines: **Daily** is an offline-first reminder app, and **ScheduleMe** turns fixed commitments, flexible activities and well-being constraints into a weekly routine.
-`Next.js` `TypeScript` `Tailwind` `Supabase` `TanStack Query` `Zustand` `Dexie` `Vitest` `Playwright`
-
 ### 🤝 [Hub Doações: Bora Impactar](https://github.com/viniciuslidington/Bora-Impactar)
 A platform that connects NGOs and donors, letting NGOs request donations and redistribute unused or near-expiry resources to other institutions. Architecture decisions documented as ADRs.
 `React` `Vite` `React Query` `Tailwind` `Node.js` `Express` `Prisma` `PostgreSQL` `Docker`
-
-### 📚 [Capyba Academy: RESTful API challenge](https://github.com/viniciuslidington/API-RESTful-Capyba)
-A learning hub for sharing courses and articles inside a company, with JWT auth, e-mail verification, admin permissions and automated tests.
-`Node.js` `Express` `Prisma` `PostgreSQL` `Jest` `Supertest` `React` `Nginx` `Docker`
 
 <details>
 <summary><strong>More projects</strong></summary>
