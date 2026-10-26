@@ -18,7 +18,7 @@ I'm a **full-stack developer** and **Information Systems** student at **CIn – 
 
 - ⚛️ **Front end:** **Next.js + TypeScript** is my main stack for web apps.
 - 🐍 **Back end:** **Node.js** for web services, and **Python + FastAPI** for AI-powered applications (LLM agents, RAG with pgvector, embeddings).
-- ☁️ **Cloud:** I deploy and run my own services on **AWS**, and I look after the servers once they're live.
+- ☁️ **Cloud & DevOps:** I build serverless features on **AWS** (Lambda and related services), and I set up CI/CD pipelines, maintenance and observability for the services I run.
 - 📱 **Mobile:** currently building a cross-platform app with **Flutter + Dart**.
 - ⚙️ I started out with **Python + RPA** automation, and I still reach for it when there's manual work to turn into code.
 
@@ -111,9 +111,9 @@ I'm a developer on **Gnomon**, working across the whole product:
 
 - 🌐 **Web:** building the platform with **Next.js + TypeScript**.
 - 📱 **Mobile:** developing the Gnomon app with **Flutter + Dart**.
-- 🖥️ **Infrastructure:** I handle deploys and run the servers: releases, monitoring and keeping the system healthy.
+- 🖥️ **Infrastructure:** I own deploys on the project's VPS: CI/CD pipelines, resource maintenance and observability.
 
-`Next.js` `TypeScript` `Flutter` `Dart` `AWS`
+`Next.js` `TypeScript` `Flutter` `Dart` `CI/CD` `VPS` `Observability`
 
 ---
 
@@ -163,7 +163,7 @@ A learning hub for sharing courses and articles inside a company, with JWT auth,
 
 - 🏗️ **Software architecture & system design**
 - 🤖 **Agentic development**: AI agents as part of the day-to-day engineering workflow
-- ☁️ **AWS**: deploying, scaling and observing production services
+- ☁️ **AWS**: serverless architectures with Lambda and the wider AWS ecosystem
 - 📱 **Flutter + Dart** for mobile
 
 ---
