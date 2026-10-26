@@ -14,18 +14,21 @@
 
 ## 🧑‍💻 About me
 
-I'm an **Information Systems** student at **CIn – UFPE** (Recife, Brazil) who builds end-to-end products: from the database and API to the interface the user actually touches.
+I'm a **full-stack developer** and **Information Systems** student at **CIn – UFPE** (Recife, Brazil). I build products end to end, from the infrastructure and API to the interface the user actually touches.
 
-- 🛠️ I work across the stack with **Next.js + TypeScript** on the front end and **Node.js** or **Python (FastAPI)** on the back end.
-- 🤖 Lately I've been focused on **AI-powered applications**: LLM agents, RAG with **pgvector**, embeddings and grounded chat over real data.
-- ⚙️ I started out in **Python + RPA**, automating repetitive processes, and I still love turning manual work into code.
-- 📦 I care about the product side too: specs, ADRs, clean architecture, tests and shipping things people use.
+- ⚛️ **Front end:** **Next.js + TypeScript** is my main stack for web apps.
+- 🐍 **Back end:** **Node.js** for web services, and **Python + FastAPI** for AI-powered applications (LLM agents, RAG with pgvector, embeddings).
+- ☁️ **Cloud:** I deploy and run my own services on **AWS**, and I look after the servers once they're live.
+- 📱 **Mobile:** currently building a cross-platform app with **Flutter + Dart**.
+- ⚙️ I started out with **Python + RPA** automation, and I still reach for it when there's manual work to turn into code.
 
 ## 🎯 What I'm aiming for
 
-- Grow as a **full-stack engineer** building AI-first products with real users and real impact.
-- Go deeper on **system design**, **LLM engineering** (agents, evals, retrieval) and **cloud infrastructure**.
-- Contribute to teams and open source projects where engineering and product walk together.
+My goal is to keep growing as a **full-stack developer** and get better at software development as a whole:
+
+- 🏛️ **Software architecture:** designing systems that are clear, scalable and easy to evolve.
+- 🧱 **The code itself:** strong fundamentals and clean, well-tested code.
+- 🤖 **AI agents in the workflow:** using agents to design, write, review and ship software faster without giving up quality.
 
 ---
 
@@ -49,6 +52,11 @@ I'm an **Information Systems** student at **CIn – UFPE** (Recife, Brazil) who 
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Back end**
 
@@ -74,8 +82,9 @@ I'm an **Information Systems** student at **CIn – UFPE** (Recife, Brazil) who 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Testing, DevOps & tooling**
+**Cloud, testing, DevOps & tooling**
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -92,6 +101,19 @@ I'm an **Information Systems** student at **CIn – UFPE** (Recife, Brazil) who 
 ![Scrum](https://img.shields.io/badge/Scrum-005A9C?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-FE5196?style=for-the-badge&logo=conventionalcommits&logoColor=white)
+
+---
+
+## 💼 Currently working on
+
+### 🧭 Gnomon
+I'm a developer on **Gnomon**, working across the whole product:
+
+- 🌐 **Web:** building the platform with **Next.js + TypeScript**.
+- 📱 **Mobile:** developing the Gnomon app with **Flutter + Dart**.
+- 🖥️ **Infrastructure:** I handle deploys and run the servers: releases, monitoring and keeping the system healthy.
+
+`Next.js` `TypeScript` `Flutter` `Dart` `AWS`
 
 ---
 
@@ -129,14 +151,9 @@ A learning hub for sharing courses and articles inside a company, with JWT auth,
 <summary><strong>More projects</strong></summary>
 <br>
 
-- 📝 [**CInscreve**](https://github.com/Lucasesaraujo/CInscreve): platform to find, filter and save public funding calls. `Node.js` `MongoDB` `React` `JWT` `Jest`
-- 🛍️ [**Social Store**](https://github.com/labprogsam/social-store-front): marketplace where NGOs and social projects sell their products. `React` `Material UI` `Docker`
-- 📊 [**PubliFin**](https://github.com/viniciuslidington/Projeto-Contabilidade-PubliFin): financial spreadsheet processing and visualization (revenue, expenses, monthly P&L). `Python` `Pandas` `Matplotlib`
-- 🤖 [**RPA Challenge**](https://github.com/viniciuslidington/RPA-Challenge): full automation of the rpachallenge.com form. `Python` `Selenium`
 - 🎮 [**CIN Invaders**](https://github.com/Jshebb/Projeto-P1-2024): 2D game built with OOP, where I was the project lead. `Python` `Pygame`
 - 🏢 [**Condominium Management**](https://github.com/viniciuslidington/CondominiumManagementProject): OOP system for managers and residents with JSON persistence. `C++`
 - 🧬 [**COVID Genome Analyzer**](https://github.com/viniciuslidington/AnalizadorGenomaCovid): counts 6-base segments of the SARS-CoV-2 genome using a hand-written hash table. `C++`
-- 🖥️ [**Nand2Tetris: Project 4**](https://github.com/viniciuslidington/Nand2TetrisProject4): machine-language programs in Hack assembly. `Assembly`
 
 </details>
 
@@ -144,10 +161,10 @@ A learning hub for sharing courses and articles inside a company, with JWT auth,
 
 ## 📚 Currently learning
 
-- 🧠 **LLM engineering**: agents, evaluations and retrieval pipelines
-- 🏗️ **System design** and distributed architectures
-- ☁️ **Cloud & infrastructure**: deploying and observing production services
-- 🍎 **Native Apple development** with Swift
+- 🏗️ **Software architecture & system design**
+- 🤖 **Agentic development**: AI agents as part of the day-to-day engineering workflow
+- ☁️ **AWS**: deploying, scaling and observing production services
+- 📱 **Flutter + Dart** for mobile
 
 ---
 
