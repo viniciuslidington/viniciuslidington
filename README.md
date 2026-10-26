@@ -106,7 +106,7 @@ My goal is to keep growing as a **full-stack developer** and get better at softw
 
 ## 💼 Currently working on
 
-### 🧭 Gnomon
+### 🧭 [Gnomon](https://gnomon.app)
 I'm a developer on **Gnomon**, working across the whole product:
 
 - 🌐 **Web:** building the platform with **Next.js + TypeScript**.
